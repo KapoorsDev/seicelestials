@@ -1,0 +1,75 @@
+{
+    "mnemonic": "silly usage affair credit system tissue double sorry prepare access blame jeans",
+    "rpc": "https://sei-rpc.brocha.in/",
+    "network": "pacific-1",
+    "name": "Sei Celestials",
+    "symbol": "SCL",
+    "description": "Collection of 99 Celestials from different Planet",
+    "supply": 99,
+    "token_uri": "https://arweave.net/hKPPfDAzYofVZszFaNLaTEc3Wo7YxI__xrpVoSuJcs0",
+    "royalty_percent": 9,
+    "royalty_wallet": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+    "iterated_uri": false,
+    "start_order": 1,
+    "frozen": false,
+    "hidden_metadata": false,
+    "placeholder_token_uri": null,
+    "groups": [
+        {
+            "name": "Team",
+            "merkle_root": "0638924278fc1964156865c0f624ff98918e619bd37cbc742621951e2cfbfcbe",
+            "max_tokens": 10,
+            "unit_price": 0,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T15:00:00Z",
+            "end_time": "2024-03-20T17:00:00Z"
+        },
+        {
+            "name": "OG",
+            "merkle_root": "cc6bee3dd40011c4f67eaf5fb57b1d8ecf1aa8ffbfc56a8ac988d220c62929f3",
+            "max_tokens": 1,
+            "unit_price": 9,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T17:00:00Z",
+            "end_time": "2024-03-20T17:30:00Z"
+        },
+        {
+            "name": "Whitelist",
+            "merkle_root": "7f97740c49f9131219521b03492b79e37823008a1495cdf166caee3cb54a2c8a",
+            "max_tokens": 2,
+            "unit_price": 9,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T17:30:00Z",
+            "end_time": "2024-03-20T18:30:00Z"
+        },
+        {
+            "name": "Public",
+            "merkle_root": null,
+            "max_tokens": 2,
+            "unit_price": 9,
+            "creators": [
+                {
+                    "address": "sei14fwzu2j6mvje9qke444fw3t4x95e042ky3ss0t",
+                    "share": 100
+                }
+            ],
+            "start_time": "2024-03-20T18:30:00Z",
+            "end_time": null
+        }
+    ]
+}

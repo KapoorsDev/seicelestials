@@ -1,0 +1,30 @@
+{
+  "name": "Sei Celestials #53",
+  "description": "Collection of 99 Celestials arrived from other planets on SEI",
+  "image": "53.png",
+  "edition": 53,
+  "date": 1711551772237,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "(2)"
+    },
+    {
+      "trait_type": "Body",
+      "value": "(6)"
+    },
+    {
+      "trait_type": "Attire",
+      "value": "(1)"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "(12)"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "(13)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
